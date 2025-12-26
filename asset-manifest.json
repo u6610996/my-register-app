@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-register-app/static/css/main.e6c13ad2.css",
+    "main.js": "/my-register-app/static/js/main.c4d70742.js",
+    "static/js/453.4ecec309.chunk.js": "/my-register-app/static/js/453.4ecec309.chunk.js",
+    "index.html": "/my-register-app/index.html",
+    "main.e6c13ad2.css.map": "/my-register-app/static/css/main.e6c13ad2.css.map",
+    "main.c4d70742.js.map": "/my-register-app/static/js/main.c4d70742.js.map",
+    "453.4ecec309.chunk.js.map": "/my-register-app/static/js/453.4ecec309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c4d70742.js"
+  ]
+}

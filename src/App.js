@@ -9,8 +9,8 @@ function App() {
       <div className="App">
         {/* Navigation Menu */}
         <nav style={{ padding: '15px', background: '#333', color: '#fff', marginBottom: '20px' }}>
-          <Link to="/" style={{ color: 'white', marginRight: '20px' }}>Home (Old Register)</Link>
-          <Link to="/submit-data" style={{ color: 'yellow', fontWeight: 'bold' }}>New Submit Form</Link>
+          <Link to="/" style={{ color: 'white', marginRight: '20px' }}>Display input data</Link>
+          <Link to="/submit-data" style={{ color: 'yellow', fontWeight: 'bold' }}>Submit data</Link>
         </nav>
         
         <Routes>
